@@ -21,7 +21,7 @@ It includes user authentication, playlist management, and a built-in music playe
 
 - **Frontend:** React / Next.js, TailwindCSS  
 - **Backend:** Node.js, Supabase 
-- **Database:** Supabasev (PostgreSQL)
+- **Database:** Supabase (PostgreSQL)
 
 
 
