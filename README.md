@@ -1,3 +1,9 @@
+# 🎵 Music Streaming App (Spotify Clone)
+
+Personal project for a music streaming platform similar to Spotify.
+It includes user authentication, playlist management, and a built-in music player.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
