@@ -4,9 +4,18 @@ Personal project for a music streaming platform similar to Spotify.
 It includes user authentication, playlist management, and a built-in music player.
 
 
-## 🖼️ Vista previa
+## 🖼️ Preview
 
 ![Preview](docs/screenshot1.png)
+
+
+## ✨ Features
+
+- 🔑 User registration and login 
+- 🎶 Song playback with controls
+- 📤 Upload songs 
+- 📱 Responsive design  
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
