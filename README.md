@@ -17,6 +17,13 @@ It includes user authentication, playlist management, and a built-in music playe
 - 📱 Responsive design  
 
 
+## 🛠️ Technologies
+
+- **Frontend:** React / Next.js, TailwindCSS  
+- **Backend:** Node.js, Supabase 
+- **Database:** Supabasev (PostgreSQL)
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
