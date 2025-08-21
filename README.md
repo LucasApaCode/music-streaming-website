@@ -24,6 +24,6 @@ It includes user authentication, playlist management, and a built-in music playe
 - **Database:** Supabase (PostgreSQL)
 
 
-## 🌐 Demo en línea
+## 🌐 Demo
 
-👉 [Probar la app aquí](https://music-streaming-website-lucas.vercel.app/)
+👉 [Test here](https://music-streaming-website-lucas.vercel.app/)
